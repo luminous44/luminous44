@@ -15,7 +15,7 @@
 <h4 align="left">An aspiring Java developer with a passion for creating dynamic and user-friendly applications</h4>
 
 
-- 📚 I'm currently learning **Spring Boot**
+- 📚 I'm currently learning **React**
 - ⚡ **I enjoy debugging and exploring new frameworks to enhance my skills.**
 
 ###
